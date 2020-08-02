@@ -1328,12 +1328,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xB410B60FA31535a0C5A8407DbB48A5924155c05b",
-      "transactionHash": "0x4899f51036175e608a8d993a6b5780ac33402dff58c9a812bfe043cc45874b8a"
+      "address": "0x4D67203cbeE7F1f0de577D689FF60A5a902Ba849",
+      "transactionHash": "0xb61ab7c9ee339f192c54ded090224b4ead127d67615a289e6365cc806aefa4a6"
     }
   },
   "schemaVersion": "3.1.0",
-  "updatedAt": "2020-08-02T12:38:19.128Z",
+  "updatedAt": "2020-08-02T14:22:43.744Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
