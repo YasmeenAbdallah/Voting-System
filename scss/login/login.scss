@@ -1,0 +1,14 @@
+.section__type-form{
+    margin: 10%;
+    border-radius: 30px;
+    background-color:$color__primary;
+    padding: 10px;
+    a{
+        background-color: $color__primary;
+        color: $color__main;
+    
+    }
+    input{
+        border-radius: 5px;
+    }
+}
